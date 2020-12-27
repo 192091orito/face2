@@ -1,7 +1,7 @@
 // キャッシュファイルの指定
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    '/https://192091orito.github.io/face2//',
+    '/https://192091orito.github.io/face2/',
 ];
 
 // インストール処理
